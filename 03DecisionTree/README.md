@@ -4,8 +4,8 @@
 
 ## What is it?
 This project demonstrates the implementation of a Decision Tree classifier in two ways
-1. **From scratch**: Building a decision tree without using any external libraries.
-2. **Using libraries**: Utilizing Python’s `scikit-learn` library to implement a decision tree classifier.
+1. **From scratch:** Building a decision tree without using any external libraries.
+2. **Using libraries:** Utilizing Python’s `scikit-learn` library to implement a decision tree classifier.
 
 It aims to compare the two approaches in terms of accuracy and performance while highlighting the differences in the implementation process.
 
