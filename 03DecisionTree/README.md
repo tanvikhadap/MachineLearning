@@ -25,7 +25,7 @@ You should make a README file for this project as soon as you start working on i
 The README file should be placed in the top-level directory of your project. If you're using a code hosting platform like GitHub, GitLab, or Bitbucket, this will be the first file users see when they visit your repository.
 
 ## How should I make it?
-This README is written in **Markdown**, a simple yet powerful text formatting language. Below is a breakdown of how this project works:
+This README is written in **Markdown**, a simple yet powerful text formatting language. Below is a breakdown of how this project works
 
 ---
 
