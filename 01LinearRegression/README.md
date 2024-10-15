@@ -3,8 +3,8 @@
 ## What is it?
 
 This project demonstrates how to implement **Linear Regression** in Python using two different approaches:
-1. **Using Libraries** like scikit-learn to handle the regression modeling process.
-2. **From Scratch**, manually implementing the mathematical principles of linear regression without using any external libraries.
+1. **Using Libraries:** like scikit-learn to handle the regression modeling process.
+2. **From Scratch:** manually implementing the mathematical principles of linear regression without using any external libraries.
 
 The dataset used in this project contains temperature readings recorded at different times and locations, with features such as date, time, and room information.
 
