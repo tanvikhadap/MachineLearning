@@ -3,9 +3,9 @@
 # K-Nearest Neighbors (KNN) Implementation: From Scratch vs Using Libraries
 
 ## What is it?
-This project demonstrates the implementation of a K-Nearest Neighbors (KNN) classifier in two ways:
-1. **From scratch**: Building a KNN classifier without using any external libraries.
-2. **Using libraries**: Utilizing Python’s `scikit-learn` library to implement a KNN classifier.
+This project demonstrates the implementation of a K-Nearest Neighbors (KNN) classifier in two ways
+1. **From scratch:** Building a KNN classifier without using any external libraries.
+2. **Using libraries:** Utilizing Python’s `scikit-learn` library to implement a KNN classifier.
 
 The goal is to compare these approaches, showing how KNN works mathematically and how to use pre-built library methods for ease and efficiency.
 
@@ -13,7 +13,7 @@ The goal is to compare these approaches, showing how KNN works mathematically an
 Understanding the inner workings of machine learning algorithms is critical for building a deeper knowledge of how they operate. By comparing a manual KNN implementation with a library-based one, this project helps clarify the algorithm's mechanics and its practical usage in real-world applications.
 
 ## Who should make it?
-This project is designed for:
+This project is designed for
 - Machine learning practitioners
 - Data science students or professionals
 - Anyone interested in understanding the difference between custom implementations and using libraries for KNN.
@@ -25,7 +25,7 @@ You should create this README before sharing or publishing the project to ensure
 Place the README file in the top-level directory of your project. This ensures that anyone new to the project can quickly find out what it's about and how to use it. Git hosting platforms like GitHub, GitLab, and Bitbucket will display the README file by default when visiting the repository.
 
 ## How should I make it?
-This README uses **Markdown**, which allows for easy formatting and readability. Below is a breakdown of how the project works:
+This README uses **Markdown**, which allows for easy formatting and readability. Below is a breakdown of how the project works
 
 ---
 
