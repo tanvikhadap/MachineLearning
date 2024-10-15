@@ -4,7 +4,7 @@
 
 ## What is it?
 
-This project compares two approaches for implementing a Support Vector Machine (SVM) classifier :
+This project compares two approaches for implementing a Support Vector Machine (SVM) classifier
 1. **Manual SVM Implementation:** A step-by-step mathematical implementation of the SVM algorithm without using any external libraries.
 2. **SVM Using Libraries:** Implementation of SVM using scikit-learn's `SVC` class for efficient and optimized computation.
 
@@ -12,7 +12,7 @@ The purpose of this project is to demonstrate how SVM works at a low level, whil
 
 ## Why should I make it?
 
-Creating this README helps explain the project to others, including:
+Creating this README helps explain the project to others, including
 - The purpose of the project.
 - How to install and use it.
 - How others can collaborate on the project.
@@ -21,7 +21,7 @@ This project can also be useful for those learning how to implement machine lear
 
 ## Who should make it?
 
-This README is for anyone who is working on the project and wants to :
+This README is for anyone who is working on the project and wants to 
 - Share the project with others.
 - Ensure that others can easily understand and use the project.
   
