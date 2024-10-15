@@ -3,9 +3,9 @@
 # Random Forest Implementation: From Scratch vs Using Libraries
 
 ## What is it?
-This project compares two implementations of the Random Forest algorithm:
-1. **From scratch**: A simplified version of Random Forest implemented without using any libraries.
-2. **Using libraries**: Implementing Random Forest using `scikit-learn`.
+This project compares two implementations of the Random Forest algorithm
+1. **From scratch:** A simplified version of Random Forest implemented without using any libraries.
+2. **Using libraries:** Implementing Random Forest using `scikit-learn`.
 
 The project demonstrates how multiple decision trees are used in ensemble learning to make more accurate predictions.
 
@@ -13,7 +13,7 @@ The project demonstrates how multiple decision trees are used in ensemble learni
 This project helps explain how Random Forest works, from bootstrapping the data, building multiple decision trees, and aggregating their predictions. Comparing both methods will deepen your understanding of the Random Forest algorithm, and help you recognize when to rely on libraries for efficient computations.
 
 ## Who should make it?
-This project is useful for:
+This project is useful for
 - Machine learning learners
 - Data scientists who want to understand Random Forests in detail
 - Those who want to explore ensemble learning techniques and their implementations.
