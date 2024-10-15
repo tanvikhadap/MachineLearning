@@ -3,7 +3,7 @@
 # Decision Tree Implementation: From Scratch vs Using Libraries
 
 ## What is it?
-This project demonstrates the implementation of a Decision Tree classifier in two ways:
+This project demonstrates the implementation of a Decision Tree classifier in two ways
 1. **From scratch**: Building a decision tree without using any external libraries.
 2. **Using libraries**: Utilizing Python’s `scikit-learn` library to implement a decision tree classifier.
 
@@ -13,7 +13,7 @@ It aims to compare the two approaches in terms of accuracy and performance while
 If you're interested in learning how machine learning models like decision trees work under the hood, this project is for you. It provides a practical comparison of how decision trees can be manually constructed step by step versus how library implementations automate this process. Understanding both methods can help in building a deeper comprehension of the algorithms and also how to use pre-built tools efficiently.
 
 ## Who should make it?
-This project is ideal for:
+This project is ideal for
 - Machine learning enthusiasts
 - Data scientists
 - Students or professionals looking to understand decision trees from both theoretical and practical standpoints.
