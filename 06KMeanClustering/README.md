@@ -3,9 +3,9 @@
 # K-Means Clustering Implementation: From Scratch vs Using Libraries
 
 ## What is it?
-This project demonstrates the implementation of the K-Means clustering algorithm in two ways:
-1. **From scratch**: Manually implementing the K-Means algorithm without any external libraries.
-2. **Using libraries**: Utilizing Python’s `scikit-learn` library to implement the K-Means algorithm.
+This project demonstrates the implementation of the K-Means clustering algorithm in two ways
+1. **From scratch:** Manually implementing the K-Means algorithm without any external libraries.
+2. **Using libraries:** Utilizing Python’s `scikit-learn` library to implement the K-Means algorithm.
 
 The project compares both approaches to highlight how K-Means works mathematically and how to use pre-built functions for efficiency in real-world scenarios.
 
@@ -16,7 +16,7 @@ The purpose of this project is to:
 - Apply clustering to explore patterns in data without requiring labels (unsupervised learning).
 
 ## Who should make it?
-This project is intended for:
+This project is intended for
 - Data science students or enthusiasts.
 - Machine learning practitioners.
 - Anyone interested in unsupervised learning and clustering algorithms.
