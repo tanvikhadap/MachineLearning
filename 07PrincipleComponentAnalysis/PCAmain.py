@@ -2,7 +2,13 @@ import numpy as np
 from matplotlib.image import imread
 import matplotlib.pyplot as plt
 
-image_raw = imread("C:\\Users\\Admin\\Downloads\\IMAGE2.jpeg")
+import os
+sImageFilePath=os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'DataSets_Required','Images','IMAGE2' + '.' + 'jpeg'))
+
+#
+image_raw = imread(sImageFilePath)
+
+# image_raw = imread("C:\\Users\\Admin\\Downloads\\IMAGE2.jpeg")
 print(image_raw.shape)
 
 # Displaying the image
