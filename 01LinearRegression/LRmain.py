@@ -3,7 +3,13 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("C:\\Users\\Admin\\Downloads\\IOT-temp.csv")
+import os
+
+# Create the absolute path to the CSV file relative to the script's location
+csv_file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'DataSets_Required', 'IOT-temp-Dataset.csv'))
+
+# Read the CSV file
+df = pd.read_csv(csv_file_path)
 df.head()
 
 df.shape

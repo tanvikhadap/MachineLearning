@@ -3,9 +3,15 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("C:\\Users\\Admin\\Downloads\\car_data.csv")
+import os
+# Create the absolute path to the CSV file relative to the script's location
+csv_file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'DataSets_Required', 'Car_dataset.csv'))
+df = pd.read_csv(csv_file_path)
+print(df.head())
 
-df.head()
+# df = pd.read_csv("C:\\Users\\Admin\\Downloads\\car_data.csv")
+
+# df.head()
 
 df.info()
 
